@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python
+numpy
+scikit-learn
+facenet-pytorch   # optional: MTCNN face detection (falls back to OpenCV Haar cascade)
+gradio            # optional: demo UI
